@@ -6,16 +6,6 @@
 Welcome to Sphinx Hello World!'s documentation!
 ===============================================
 
-This is my new manual section. kljdlkajdlaksdjalksdja klsad lksajdalks klasjd klsadjlksajdlksad
-dslkajdkljaskldkjadskljdklasdklj.
-l;sald;dsal;kdsalk;dsal;kdsal;kdsa.oiwqdoijwqdijwqdoijwqdijwqoidjlkadsjkadskldjlkasjd'
-akls.
-
-	-klsajdlksajdsa:
-		*jsalkdjlksajd
-		*lkasmdlkamsdlkamsd
-		#lkasjdlksajdlkadiiii
-
 Contents:
 
 .. toctree::
