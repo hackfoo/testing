@@ -10,6 +10,7 @@ Contents:
 
 .. toctree::
    intro
+   :numbered:
    :maxdepth: 3
 
 
