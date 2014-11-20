@@ -9,6 +9,7 @@ Welcome to Sphinx Hello World!'s documentation!
 Contents:
 
 .. toctree::
+   intro
    :maxdepth: 2
 
 
